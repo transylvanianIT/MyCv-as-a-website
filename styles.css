@@ -1,0 +1,302 @@
+/*our app*/
+
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #f6f6fa;
+}
+
+
+
+.app{
+    display: flex;
+    flex-direction: row-reverse;
+    width:1200px;
+    margin: 40px auto;
+    background-color: #fff;
+}
+
+/*side bar style*/
+
+.tech{
+
+    padding-left: 40px;
+    margin-top: 40px;
+
+}
+
+.techheader{
+    color: #161d2a;
+    font-size: 22px ;
+    font-style: normal;
+    font-weight: 700 ;
+    line-height: normal;
+
+}
+
+.techlist{
+    color: #161d2a;
+    font-size: 14px ;
+    font-style: normal;
+    font-weight: 400 ;
+    line-height: 24px;
+    margin-top: -10px;
+    margin-left: -10px;
+
+}
+.soft{
+
+    padding-left: 40px;
+    margin-top: 60px;
+
+}
+
+.softheader{
+    color: #161d2a;
+    font-size: 22px ;
+    font-style: normal;
+    font-weight: 700 ;
+    line-height: normal;
+
+}
+
+.softlist{
+    color: #161d2a;
+    font-size: 14px ;
+    font-style: normal;
+    font-weight: 400 ;
+    line-height: 24px;
+    margin-left: -10px;
+    margin-top: -10px;
+
+}
+
+.contacts{
+    padding-left: 40px;
+
+}
+
+.contactsheader{
+    color: #161d2a;
+    font-size: 22px ;
+    font-style: normal;
+    font-weight: 700 ;
+    line-height: normal;
+
+}
+
+.contelem{
+    margin-top: -12px;
+}
+
+
+.contitem{
+    color: #161d2a;
+    font-size: 14px ;
+    font-style: normal;
+    font-weight: 700 ;
+    line-height: 24px;
+
+}
+
+.phone{
+    color: #4489ff;
+    font-size: 14px ;
+    font-style: normal;
+    font-weight: 400 ;
+    line-height: 24px;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+
+.email{
+    color: #4489ff;
+    font-size: 14px ;
+    font-style: normal;
+    font-weight: 400 ;
+    line-height: 24px;
+    margin-left: 10px;
+}
+
+.sidebarimg{
+    margin-top: 40px;
+
+}
+
+.sidebar{
+    background-color: #dfeeff;
+}
+
+/*main content*/
+
+.rightside{
+
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+}
+
+.profesie{
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+}
+
+.name{
+    margin-top: -10px;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+
+}
+
+.descriere{
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: 24px;
+    margin-top: -25px;
+}
+
+.projects{
+
+    margin-top: 50px;
+}
+
+.projectheader{
+
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+
+}
+
+.projectlist{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: 24px;
+    margin-left: -23px;
+    margin-top: -15px;
+
+}
+.projectname{
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: 24px;
+    text-decoration-line: underline;
+
+
+}
+
+.projectinfo{
+
+    font-weight: 400;
+}
+
+.workexp{
+
+    margin-top: 40px;
+}
+
+.workexph{
+
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+}
+
+.compname{
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+}
+
+.compinfo{
+    color: #6096ff;
+    margin-left: 15px;
+}
+
+.comptime{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: normal;
+    margin-top: -10px;
+
+}
+
+.compelem{
+
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: 24px;
+    margin-left: -15px;
+    margin-top: -5px;
+}
+
+.compcont{
+
+    margin-top: -10px;
+}
+
+.educsect{
+
+    margin-top: 40px;
+}
+
+
+.educh{
+
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+}
+
+.educh2{
+    color: #6096ff;
+   
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+
+}
+
+.educjob{
+    margin-top: -12px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: normal;
+}
+
+.eductime{
+
+    color: #a8a8a8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;   
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.educ1{
+
+    margin-top: -10px;
+}
